@@ -1,5 +1,7 @@
 <span>
-
+  
+Vượt link lấy key để tiếp sức cho mình. [KEY SERVER](https://web1s.co/LIRAG5ETOG), [KEY DOWNLOAD](https://web1s.co/9MsuRWSejR)
+Link dư phòng: [KEY SERVER](https://link4m.com/X1NAWk) - [KEY DOWNLOAD](https://link4m.com/B3AWsKX)
   <div align="center">
     <h1>
       Hướng Dẫn Cài Đặt
@@ -8,17 +10,18 @@
 <span>
 
 - ### **Bước 1**
-- Hãy tải xuống và cài đặt các ứng dụng và các tệp tin bên dưới
+  - Hãy tải xuống và cài đặt các ứng dụng và các tệp tin bên dưới
     - [Cài đặt TERMUX](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_armeabi-v7a.apk)
     - [Cài đặt KSWEB](https://web1s.co/PTitei0Y2n)
     - [Tải xuống tệp SQL](https://web1s.co/pjBDtNJ7YD)
     - [Cài đặt APK](https://github.com/JINN1368/NRO_V2/releases)
 - ###  **Bước 2**
-- Xem và làm theo hai video sau:
-   - [Setup KSWEB]()
-   - [Setup SQL]()
+  - [Cách thiết lập ksweb](https://www.youtube.com/shorts/e4BnPUa0U_g)
+  - [Cách thiết lập SQL](https://www.youtube.com/shorts/mp9ofZ96qFE)
+  - [Cách xóa và đổi tên database](https://www.youtube.com/watch?v=PleWu2oBzws)
+
 - ### **Bước 3**
-- Sao chép và Dán vào Termux các đoạn mã bên dưới
+  - Sao chép và Dán vào Termux các đoạn mã bên dưới
 ```
 termux-setup-storage
 ```
