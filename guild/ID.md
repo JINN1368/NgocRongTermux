@@ -31,6 +31,18 @@
 | 50 | Áo giáp đồng | Giúp giảm sát thương |
 | 51 | Quần thun thô | Giúp tăng HP |
 | 52 | Quần giáp đồng | Giúp tăng HP |
+136 | Áo vải Kame | Giúp bạn giảm sát thương
+137 | Áo thun Kame | Giúp bạn giảm sát thương
+138 | Áo võ Kame | Giúp bạn giảm sát thương
+139 | Áo võ Goku | Giúp bạn giảm sát thương
+140 | Áo vải Kame | Giúp bạn tăng HP
+141 | Áo thun Kame | Giúp bạn tăng HP
+142 | Áo võ Kame | Giúp bạn tăng HP
+143 | Áo võ goku | Giúp bạn tăng HP
+152 | Áo choàng len | Giúp bạn giảm sát thương
+153 | Áo choàng thun | Giúp bạn giảm sát thương
+154 | Áo vải Pico | Giúp bạn giảm sát thương
+155 | Áo da Pico | Giúp bạn giảm sát thương
 </td>
 <td>
   
