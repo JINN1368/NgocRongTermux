@@ -93,7 +93,9 @@ jinn1368.sh
 - SAU KHI SERVER ĐƯỢC MỞ HÃY VÀO GAME
 - CÁC PHIÊN BẢN [APK](https://github.com/JINN1368/NRO_V2/releases) PHÙ HỢP VỚI PHIÊN BẢN ([TẢI XUỐNG CÁC BẢN APK DÀNH RIÊNG](https://github.com/JINN1368/NRO_V2/releases))
 ### BƯỚC 3 - TẠO TÀI KHOẢN
-> TÀI KHOẢN MẶC ĐỊNH: NAME: jinn - PASS: 1368
+> TÀI KHOẢN MẶC ĐỊNH<br/>
+> USERNAME: jinn<br/>
+> PASSWORD: 1368
 - VÀO GAME NHẤN CHƠI MỚI
 - HÃY THỬ THOÁT GAME VÀO LẠI, XÓA DỮ LIỆU..., NẾU KHÔNG THỂ ĐĂNG NHẬP
 
