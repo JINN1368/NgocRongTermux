@@ -55,8 +55,8 @@
 - DO CHÍNH SÁCH BÊN CUNG CẤP NÊN MÃ KHÓA SẼ ĐƯỢC UPDATE `SAU 2 - 3 TUẦN KỂ TỪ LÚC ĐƯỢC TẠO (KHÔNG PHẢI LÚC BẠN MUA)`, KHI THAY THẾ MÃ KHÓA NẾU BẠN ĐÃ MUA HÃY GỬI LẠI BILL VÀ SẼ ĐƯỢC `CUNG CẤP MÃ KHÓA MỚI` (CHỈ CẦN MUA MỘT LẦN VÀ CÁC MÃ KHÓA UPDATE SAU NÀY SẼ LUÔN ĐƯỢC GỬI ĐẾN BẠN)
 ### MỘT SERVER TỐI ĐA BAO NHIÊU NGƯỜI CHƠI
 - VỚI 40 KẾT NỐI. KHUYẾN KHÍCH BẠN NÊN CHƠI TỐI THIỂU NHÓM `5 NGƯỜI` VÀ TỐI ĐA `10 - 15 NGƯỜI`
-# CÓ PHẢI TRẢ PHÍ ĐỂ SỬ DỤNG
-- BẠN CÓ THỂ TÙY CHỌN GIỮA TRẢ PHÍ VÀ MIỄN PHÍ ( VƯỢT LINK )
+### CÓ PHẢI TRẢ PHÍ ĐỂ SỬ DỤNG
+- BẠN CÓ THỂ TÙY CHỌN GIỮA TRẢ PHÍ VÀ MIỄN PHÍ ( [VƯỢT LINK]() )
 - MỖI NGÀY `MÃ` SẼ ĐƯỢC THAY ĐỔI ĐỐI VỚI `MÃ MIỄN PHÍ`
 - `MÃ` SẼ ĐƯỢC DÙNG ĐỂ ĐĂNG NHẬP VÀO MENU
 <div align="center">
