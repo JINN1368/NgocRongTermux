@@ -94,7 +94,7 @@ jinn1368.sh
 - TÊN DATABASE ([SQL]()) PHẢI ĐƯỢC ĐẶT LÀ: `JINN_NRT` ([TẢI XUỐNG TỆP SQL]())
 ### BƯỚC 2 - VÀO GAME
 - SAU KHI SERVER ĐƯỢC MỞ HÃY VÀO GAME
-- CÁC PHIÊN BẢN [APK](https://github.com/JINN1368/NRO_V2/releases) PHÙ HỢP VỚI PHIÊN BẢN ([TẢI XUỐNG CÁC BẢN APK DÀNH RIÊNG](https://github.com/JINN1368/NRO_V2/releases))
+- CÁC PHIÊN BẢN [APK](https://github.com/JINN1368/NgocRongTermux/releases) PHÙ HỢP VỚI PHIÊN BẢN ([TẢI XUỐNG CÁC BẢN APK DÀNH RIÊNG](https://github.com/JINN1368/NgocRongTermux/releases))
 ### BƯỚC 3 - TẠO TÀI KHOẢN
 > TÀI KHOẢN MẶC ĐỊNH<br/>
 > USERNAME: jinn<br/>
