@@ -57,8 +57,9 @@
 - VỚI 40 KẾT NỐI. KHUYẾN KHÍCH BẠN NÊN CHƠI TỐI THIỂU NHÓM `5 NGƯỜI` VÀ TỐI ĐA `10 - 15 NGƯỜI`
 ### CÓ PHẢI TRẢ PHÍ ĐỂ SỬ DỤNG
 - CÓ, ĐÂY LÀ PHIÊN BẢN TRẢ PHÍ (50.000₫ ATM),(70.000₫ CARD)
-- ĐỂ MUA BẠN HÃY LIÊN HỆ [FB](), [ZALO]()
-- STK: 0853035354(MOMO, MBBANK - NGUYEN ANH KIET)
+- STK:0853035354(MOMO, MBBANK - NGUYEN ANH KIET)
+- ZALO: 0853035354
+- FACEBOOK: [FB.COM](fb.com/K3tNgu)
 <div align="center">
   
 # HƯỚNG DẪN CÀI ĐẶT
@@ -102,6 +103,9 @@ jinn1368.sh
 <div align="center">
 
 # ẢNH CHỤP MÀN HÌNH
-  
+<img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/ingame.jpg"/>
+<img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/menu1.jpg"/>
+<img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/menu2.jpg"/>
+<img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/menu3.jpg"/>
 </div>
 </span>
