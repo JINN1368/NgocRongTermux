@@ -56,9 +56,9 @@
 ### MỘT SERVER TỐI ĐA BAO NHIÊU NGƯỜI CHƠI
 - VỚI 40 KẾT NỐI. KHUYẾN KHÍCH BẠN NÊN CHƠI TỐI THIỂU NHÓM `5 NGƯỜI` VÀ TỐI ĐA `10 - 15 NGƯỜI`
 ### CÓ PHẢI TRẢ PHÍ ĐỂ SỬ DỤNG
-- BẠN CÓ THỂ TÙY CHỌN GIỮA TRẢ PHÍ VÀ MIỄN PHÍ ( [VƯỢT LINK]() )
-- MỖI NGÀY `MÃ` SẼ ĐƯỢC THAY ĐỔI ĐỐI VỚI `MÃ MIỄN PHÍ`
-- `MÃ` SẼ ĐƯỢC DÙNG ĐỂ ĐĂNG NHẬP VÀO MENU
+- CÓ, ĐÂY LÀ PHIÊN BẢN TRẢ PHÍ (50.000₫ ATM),(70.000₫ CARD)
+- ĐỂ MUA BẠN HÃY LIÊN HỆ [FB](), [ZALO]()
+- STK: 0853035354(MOMO, MBBANK - NGUYEN ANH KIET)
 <div align="center">
   
 # HƯỚNG DẪN CÀI ĐẶT
