@@ -73,8 +73,10 @@ termux-setup-storage
 clear
 apt update
 apt upgrade -y
-pkg i git -y python -y && git clone https://github.com/JINN1368/NgocRongTermux
-bash NgocRongTermux/install.py
+pkg i git -y python -y python-pip -y openjdk-17 -y
+pip install licensing wget mysql-connector-python requests
+git clone https://github.com/JINN1368/NgocRongTermux
+cd NgocRongTermux && mv *.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/*.sh && cd
 clear
 ```
 ### MỞ MENU
