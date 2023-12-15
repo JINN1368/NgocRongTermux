@@ -13,7 +13,7 @@
     <img alt="Facebook" src="https://img.shields.io/badge/Youtube-fc036f?&logo=youtube&logoColor=white" style="height:40px;"/>
   </a>
   <br/>
-  <img alt="Github Download" src="https://img.shields.io/github/downloads/JINN1368/NRO_V2/total.svg?style=for-the-badge&color="green" />
+  <img alt="Github Download" src="https://img.shields.io/github/downloads/JINN1368/NgocRongTermux/total.svg?style=for-the-badge&color="green" />
   <img alt="Build Version" src="https://img.shields.io/badge/NRO VERSION-1.0.0-pink?style=for-the-badge"/>
   <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NRO_V2.svg?style=for-the-badge"/>
   <br/>
