@@ -91,7 +91,7 @@ jinn1368.sh
 ### BƯỚC 1 - CHẠY SERVER
 - HÃY CHẮC CHẮN RẰNG [KSWEB]() ĐƯỢC BẬT VÀ CHẠY NGẦM ([TẢI XUỐNG KSWEB]())
 - SERVER ĐƯỢC MỞ TỪ TERMUX
-- TÊN DATABASE ([SQL]()) PHẢI ĐƯỢC ĐẶT LÀ: `JINN_NRT` ([TẢI XUỐNG TỆP SQL]())
+- TÊN DATABASE ([SQL]()) PHẢI ĐƯỢC ĐẶT LÀ: `JINN_FREE_V2` ([TẢI XUỐNG TỆP SQL]())
 ### BƯỚC 2 - VÀO GAME
 - SAU KHI SERVER ĐƯỢC MỞ HÃY VÀO GAME
 - CÁC PHIÊN BẢN [APK](https://github.com/JINN1368/NgocRongTermux/releases) PHÙ HỢP VỚI PHIÊN BẢN ([TẢI XUỐNG CÁC BẢN APK DÀNH RIÊNG](https://github.com/JINN1368/NgocRongTermux/releases))
@@ -101,7 +101,18 @@ jinn1368.sh
 > PASSWORD: 1368
 - VÀO GAME NHẤN CHƠI MỚI
 - HÃY THỬ THOÁT GAME VÀO LẠI, XÓA DỮ LIỆU..., NẾU KHÔNG THỂ ĐĂNG NHẬP
-
+### TẠO IP
+- DÙNG ĐỂ TẠO IP SERVER ONLINE
+- ĐỂ TẠO IP HÃY SAO CHÉP VÀ DÁN CÂU LỆNH SAU VÀO TERMUX
+```
+pkg update -y
+pkg install git
+git clone https://github.com/Yisus7u7/termux-ngrok
+cd termux-ngrok
+bash install.sh
+```
+- SAU ĐÓ TRUY CẬP [NGROK.COM](ngrok.com). TẠO TÀI KHOẢN > COPY AUTHTOKEN > DÁN VÀO TERMUX > MỞ MENU VÀ TẠO IP
+<img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/Screenshot_2023-12-15-19-12-45-930_com.android.chrome.png"/>
 <div align="center">
 
 # ẢNH CHỤP MÀN HÌNH
