@@ -74,7 +74,7 @@ clear
 apt update
 apt upgrade -y
 pkg i git -y python -y python-pip -y openjdk-17 -y wget -y
-pip install licensing mysql-connector-python requests
+pip install wget licensing mysql-connector-python requests
 git clone https://github.com/JINN1368/NgocRongTermux
 cd NgocRongTermux && mv *.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/*.sh && cd
 clear
