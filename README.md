@@ -15,7 +15,7 @@
   <br/>
   <img alt="Github Download" src="https://img.shields.io/github/downloads/JINN1368/NgocRongTermux/total.svg?style=for-the-badge&color="green" />
   <img alt="Build Version" src="https://img.shields.io/badge/NRO VERSION-1.0.0-pink?style=for-the-badge"/>
-  <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NRO_V2.svg?style=for-the-badge"/>
+  <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NgocRongTermux.svg?style=for-the-badge"/>
   <br/>
 
 
