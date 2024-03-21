@@ -18,7 +18,6 @@
   <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NRO_V2.svg?style=for-the-badge"/>
   <br/>
 
-  **=== [ID ITEMS](https://github.com/JINN1368/NRO_V2/blob/main/guild/ID.md) = [PARAM ID](https://github.com/JINN1368/NRO_V2/blob/main/guild/param.md) ===**  
 
   
   </div>
