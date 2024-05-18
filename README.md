@@ -50,13 +50,10 @@
 # CÂU HỎI THƯỜNG GẶP
 </div>
 
-### MÃ KHÓA CÓ VĨNH VIỄN HAY KHÔNG
-- DO CHÍNH SÁCH BÊN CUNG CẤP NÊN MÃ KHÓA SẼ ĐƯỢC UPDATE `SAU 2 - 3 TUẦN KỂ TỪ LÚC ĐƯỢC TẠO (KHÔNG PHẢI LÚC BẠN MUA)`, KHI THAY THẾ MÃ KHÓA NẾU BẠN ĐÃ MUA HÃY GỬI LẠI BILL VÀ SẼ ĐƯỢC `CUNG CẤP MÃ KHÓA MỚI` (CHỈ CẦN MUA MỘT LẦN VÀ CÁC MÃ KHÓA UPDATE SAU NÀY SẼ LUÔN ĐƯỢC GỬI ĐẾN BẠN)
 ### MỘT SERVER TỐI ĐA BAO NHIÊU NGƯỜI CHƠI
 - VỚI 40 KẾT NỐI. KHUYẾN KHÍCH BẠN NÊN CHƠI TỐI THIỂU NHÓM `5 NGƯỜI` VÀ TỐI ĐA `10 - 15 NGƯỜI`
 ### CÓ PHẢI TRẢ PHÍ ĐỂ SỬ DỤNG
-- CÓ, ĐÂY LÀ PHIÊN BẢN TRẢ PHÍ (50.000₫ ATM),(70.000₫ CARD)
-- STK:0853035354(MOMO, MBBANK - NGUYEN ANH KIET)
+- KHÔNG, PHIÊN BẢN NÀY HOÀN TOÀN MIỄN PHÍ - CÁC BẠN CHỊU KHÓ VƯỢT LINK ĐỂ ỦNG HỘ MÌNH
 - ZALO: 0853035354
 - FACEBOOK: [FB.COM](fb.com/K3tNgu)
 <div align="center">
