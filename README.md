@@ -23,30 +23,6 @@
   </div>
 <div align="center">
   
-# NHƯNG LƯU Ý TRƯỚC KHI BẮT ĐẦU
-</div>
-
-### MỞ SERVER
-
-- MỞ ONLINE: TẠO SERVER CHO PHÉP NGƯỜI KHÁC THAM GIA ( TỐI ĐA 40 KẾT NỐI )
-- MỞ OFFLINE: TẠO SERVER DÀNH CHO MỘT NGƯỜI CHƠI
-### TÙY CHỈNH SERVER
-- TÙY CHỈNH CÁC THỐNG SỐ CỦA SERVER: KINH NGHIỆM, THỜI GIAN ĐĂNG NHẬP, SỐ TÀI KHOẢN/IP, TÊN SERVER
-### DỮ LIỆU SERVER
-- XEM VÀ CHỈNH SỬA DỮ LIỆU SERVER: GIÁ, THÔNG TIN TÀI KHOẢN, BUFF CHỈ SỐ - TÀI NGUYÊN, CHỈ SỐ ĐỒ - SHOP - CẢI TRANG..., CHỈ SỐ NỘI TẠI,...
-### TÀI NGUYÊN SERVER
-- DÙNG ĐỂ CẬP NHẬT CÁC BẢN UPDATE DỮ LIỆU VÀ CÀI ĐẶT LẠI TÀI NGUYÊN SERVER
-### HƯỚNG DẪN
-- TÍCH HỢP TRANG NÀY VÀO MENU
-### CÁC LỖI THƯỜNG GẶP
-- XEM CÁC LỖI HAY XẢY RA VÀ LÀM THEO CÁC GIẢI PHÁP KHẮC PHỤC
-### CẬP NHẬT
-- CẬP NHẬT DỮ LIỆU VÀ MENU
-### TẮT SERVER
-- ĐỂ TẮT SERVER TRONG GAME: HÃY MỞ MENU ADMIN VÀ CHỌN BẢO TRÌ
-- ĐỂ TẮT SERVER TRONG TERMUX: HÃY NHẤN "CTRL" SAU ĐÓ NHẬP "C"
-<div align="center">
-  
 # CÂU HỎI THƯỜNG GẶP
 </div>
 
@@ -56,10 +32,15 @@
 - KHÔNG, PHIÊN BẢN NÀY HOÀN TOÀN MIỄN PHÍ - CÁC BẠN CHỊU KHÓ VƯỢT LINK ĐỂ ỦNG HỘ MÌNH
 - ZALO: 0853035354
 - FACEBOOK: [FB.COM](fb.com/K3tNgu)
+### IP CỦA SERVER
+- MẶC ĐỊNH: `JINN:127.0.0.1:14445:0,0,0`
 <div align="center">
   
+  
 # HƯỚNG DẪN CÀI ĐẶT
-XEM VIDEO CHI TIẾT CÁCH CÀI ĐẶT [XEM VIDEO]()
+[XEM VIDEO CÁCH CÀI ĐẶT]()
+
+[XEM HDSD CHI TIẾT]()
 
 </div>
 
@@ -107,7 +88,7 @@ git clone https://github.com/Yisus7u7/termux-ngrok
 cd termux-ngrok
 bash install.sh
 ```
-- SAU ĐÓ TRUY CẬP [NGROK.COM](ngrok.com). TẠO TÀI KHOẢN > COPY AUTHTOKEN > DÁN VÀO TERMUX > MỞ MENU VÀ TẠO IP
+- SAU ĐÓ TRUY CẬP [ngrok](ngrok.com). TẠO TÀI KHOẢN > COPY AUTHTOKEN > DÁN VÀO TERMUX > MỞ MENU VÀ TẠO IP
 <img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/Screenshot_2023-12-15-19-12-45-930_com.android.chrome.png"/>
 <div align="center">
 
