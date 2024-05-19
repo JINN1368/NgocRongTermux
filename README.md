@@ -85,9 +85,9 @@ jinn1368.sh
 </div>
 
 ### BƯỚC 1 - CHẠY SERVER
-- HÃY CHẮC CHẮN RẰNG [KSWEB]() ĐƯỢC BẬT VÀ CHẠY NGẦM ([TẢI XUỐNG KSWEB]())
+- HÃY CHẮC CHẮN RẰNG [KSWEB](https://xemlinkhot.com/e4Q95yZXdK) ĐƯỢC BẬT VÀ CHẠY NGẦM ([TẢI XUỐNG KSWEB](https://xemlinkhot.com/e4Q95yZXdK))
 - SERVER ĐƯỢC MỞ TỪ TERMUX
-- TÊN DATABASE ([SQL]()) PHẢI ĐƯỢC ĐẶT LÀ: `JINN_FREE_V2` ([TẢI XUỐNG TỆP SQL]())
+- TÊN DATABASE ([SQL](https://xemnote.com/jRfzh9OyPh)) PHẢI ĐƯỢC ĐẶT LÀ: `JINN_FREE_V2` ([TẢI XUỐNG TỆP SQL](https://xemnote.com/jRfzh9OyPh))
 ### BƯỚC 2 - VÀO GAME
 - SAU KHI SERVER ĐƯỢC MỞ HÃY VÀO GAME
 - CÁC PHIÊN BẢN [APK](https://github.com/JINN1368/NgocRongTermux/releases) PHÙ HỢP VỚI PHIÊN BẢN ([TẢI XUỐNG CÁC BẢN APK DÀNH RIÊNG](https://github.com/JINN1368/NgocRongTermux/releases))
