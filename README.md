@@ -40,7 +40,7 @@
 # HƯỚNG DẪN CÀI ĐẶT
 [XEM VIDEO CÁCH CÀI ĐẶT]()
 
-[XEM HDSD CHI TIẾT]()
+[XEM HDSD CHI TIẾT](https://github.com/JINN1368/NgocRongTermux/blob/main/HDSD.md)
 
 </div>
 
