@@ -7,7 +7,13 @@
 - CHẠY SERVER: `Mở server`
 - TẠO IP: `Tạo ip server, thay ip và có thể chơi online`
 - CHI TIẾT:
-`Để chạy server online vui lòng tạo ip > kéo từ bên trái termux > new seasion > mở menu lại 1 lần nữa > chạy server`
+`Để chạy server online vui lòng tạo ip > Chạy Server > kéo từ bên trái termux > new seasion > mở menu > tạo ip`
+
+**IP CÓ DẠNG**
+`tcp://[NUMBER].tcp.ap.ngrok.io:[PORT]`
+<br/>để thay ip<br/>
+Ip: tcp://[NUMBER].tcp.ap.ngrok.io
+<br/>Port: [PORT]
 ### MỤC 2
 - DÙNG ĐỂ CHỈNH SỬA THÔNG TIN SERVER
 ### MỤC 3
