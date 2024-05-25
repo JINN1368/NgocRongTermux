@@ -46,20 +46,19 @@
 
 ### SAO CHÉP VÀ DÁN ĐOẠN MÃ DƯỚI VÀO TERMUX
 ```
-termux-setup-storage
-clear
-apt update
-apt upgrade -y
-pkg i git -y python -y python-pip -y openjdk-17 -y  
-pip install gdown licensing mysql-connector-python requests
-git clone https://github.com/JINN1368/NgocRongTermux
-cd NgocRongTermux && mv *.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/*.sh && cd
-jinn1368.sh
+curl -l https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/install.sh | bash
 ```
-### MỞ MENU
+### MỘT SỐ CÂU LỆNH
+- MỞ MENU
 ```
 jinn1368.sh
 ```
+- MỞ DATABASE
+[TRUY CẬP DATABASE](127.0.0.1:8080/phpmyadmin)
+```
+tamp -start
+```
+
 <div align="center">
 
   # HƯỚNG DẪN SỬ DỤNG
