@@ -46,7 +46,7 @@
 
 ### SAO CHÉP VÀ DÁN ĐOẠN MÃ DƯỚI VÀO TERMUX
 ```
-curl -l https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/install.sh | bash
+curl -sl https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/install.sh | bash
 ```
 ### MỘT SỐ CÂU LỆNH
 - MỞ MENU
