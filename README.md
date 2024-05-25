@@ -54,9 +54,11 @@ curl -l https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/install.s
 jinn1368.sh
 ```
 - MỞ DATABASE
-[TRUY CẬP DATABASE](127.0.0.1:8080/phpmyadmin)
 ```
 tamp -start
+```
+```
+127.0.01:8080/phpmyadmin
 ```
 
 <div align="center">
