@@ -22,11 +22,6 @@ echo "CÀI ĐẶT SERVER"
 git clone https://github.com/1Tech-X/Tamp
 cd Tamp
 bash install.sh
-curl -LO https://raw.githubusercontent.com/1Tech-X/Tamp/main/update_tamp.sh
-bash update_tamp.sh
-curl -LO https://raw.githubusercontent.com/1Tech-X/Tamp/main/fix_phpmyadmin.sh
-bash fix_phpmyadmin.sh
-clear
 
 echo "ĐANG TẢI DỮ LIỆU"
 gdown --quiet 1T7uB5HdciSWAvxF9vP_f1wqZXfVz76tc
