@@ -15,52 +15,60 @@ pip install gdown licensing mysql-connector-python requests
 
 # Clone the NgocRongTermux repository
 git clone https://github.com/JINN1368/NgocRongTermux
-echo "TIẾN HÀNH XOÁ TỆP THỪA"
-sleep 2
 
 # Remove unnecessary files
+echo "TIẾN HÀNH XOÁ TỆP THỪA"
+sleep 2
 cd NgocRongTermux
 rm -rf *.md
 
-# Conditional installation based on Android version
+# Download and set up the environment based on Android version
 if [ "$version_number" -gt 11 ]; then
     echo "CÀI ĐẶT SERVER"
-    cd
+    
+    # Clone and install Tamp
+    cd ~
     git clone https://github.com/1Tech-X/Tamp
     cd Tamp
-    bash install.sh
     
+    # Run installation scripts with error handling
+    bash install.sh || { echo "Install script failed"; exit 1; }
     curl -LO https://raw.githubusercontent.com/1Tech-X/Tamp/main/update_tamp.sh
-    bash update_tamp.sh
-    
+    bash update_tamp.sh || { echo "Update script failed"; exit 1; }
     curl -LO https://raw.githubusercontent.com/1Tech-X/Tamp/main/fix_phpmyadmin.sh
-    bash fix_phpmyadmin.sh
-    
+    bash fix_phpmyadmin.sh || { echo "Fix phpMyAdmin script failed"; exit 1; }
+
     clear
     echo "ĐANG TẢI DỮ LIỆU"
+    
+    # Download and unzip data
     gdown --quiet 1T7uB5HdciSWAvxF9vP_f1wqZXfVz76tc
-    unzip *.zip
+    unzip -q '*.zip'
     rm -rf *.zip
     
-    cd
-    cd NgocRongTermux
+    # Move scripts to /usr/bin
+    cd ~/NgocRongTermux
     mv *.sh ~/../usr/bin/
     chmod +x ~/../usr/bin/*.sh
     
     clear
     jinn1368.sh
+
 else
     echo "ĐANG TẢI DỮ LIỆU"
+    
+    # Download and unzip data
     gdown --quiet 1T7uB5HdciSWAvxF9vP_f1wqZXfVz76tc
-    unzip *.zip
+    unzip -q '*.zip'
     rm -rf *.zip
     
-    cd
-    cd NgocRongTermux
+    # Move scripts to /usr/bin
+    cd ~/NgocRongTermux
     mv *.sh ~/../usr/bin/
     chmod +x ~/../usr/bin/*.sh
     
-    read -p "PHIÊN BẢN ANDROID CỦA BẠN KHÔNG HỖ TRỢ TAMPP, VUI LÒNG SETUP KSWEB."
+    echo "PHIÊN BẢN ANDROID CỦA BẠN KHÔNG HỖ TRỢ TAMPP, VUI LÒNG SETUP KSWEB."
     jinn1368.sh
 fi
+
 clear
