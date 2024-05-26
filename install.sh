@@ -10,14 +10,6 @@ pip install gdown licensing mysql-connector-python requests
 
 git clone https://github.com/JINN1368/NgocRongTermux
 clear
-echo "TIẾN HÀNH XOÁ TỆP THỪA"
-sleep 2
-
-cd NgocRongTermux
-rm -rf *.md
-clear
-
-cd
 echo "CÀI ĐẶT SERVER"
 git clone https://github.com/1Tech-X/Tamp
 cd Tamp
