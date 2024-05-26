@@ -21,6 +21,7 @@ rm -rf *.md
 
 if [ "$version_number" -gt 11 ]; then
     echo "CÀI ĐẶT SERVER"
+    cd
     git clone https://github.com/1Tech-X/Tamp
     cd Tamp
     bash install.sh
@@ -40,6 +41,7 @@ if [ "$version_number" -gt 11 ]; then
     cd
     clear
     jinn1368.sh
+    exit
 else
     echo "ĐANG TẢI DỮ LIỆU"
     gdown --quiet 1T7uB5HdciSWAvxF9vP_f1wqZXfVz76tc
@@ -52,6 +54,6 @@ else
     cd
     read -p "PHIÊN BẢN ANDROID CỦA BẠN KHÔNG HỖ TRỢ TAMPP, VUI LÒNG SETUP KSWEB."
     jinn1368.sh
+    exit
 fi
-
 clear
