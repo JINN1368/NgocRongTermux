@@ -46,6 +46,8 @@
 
 ### SAO CHÉP VÀ DÁN ĐOẠN MÃ DƯỚI VÀO TERMUX
 ```
+apt update
+apt upgrade -y
 curl -sl https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/install.sh | bash
 ```
 ### MỘT SỐ CÂU LỆNH
