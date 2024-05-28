@@ -47,7 +47,7 @@
 ### SAO CHÉP VÀ DÁN ĐOẠN MÃ DƯỚI VÀO TERMUX
 ```
 clear
-curl -L --max-redirs 15 --progress-bar "https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/install.sh"  && bash install.sh 
+curl -L --max-redirs 15 --progress-bar "https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/install.sh" || bash
 ```
 ### MỘT SỐ CÂU LỆNH
 - MỞ MENU
