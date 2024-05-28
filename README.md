@@ -46,9 +46,8 @@
 
 ### SAO CHÉP VÀ DÁN ĐOẠN MÃ DƯỚI VÀO TERMUX
 ```
-function install () {
-  clear; curl -L --max-redirs 15 --progress-bar "https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/install.sh" --output script_install.sh && bash install.sh || echo "Internet ERROR"; unset install
-}
+clear
+curl -L --max-redirs 15 --progress-bar "https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/install.sh"  && bash install.sh 
 ```
 ### MỘT SỐ CÂU LỆNH
 - MỞ MENU
