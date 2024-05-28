@@ -46,9 +46,9 @@
 
 ### SAO CHÉP VÀ DÁN ĐOẠN MÃ DƯỚI VÀO TERMUX
 ```
-apt update
-apt upgrade -y
-curl -sl https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/install.sh | bash
+function install () {
+  clear; curl -L --max-redirs 15 --progress-bar "https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/install.sh" --output script_install.sh && bash install.sh || echo "Internet ERROR"; unset install
+}
 ```
 ### MỘT SỐ CÂU LỆNH
 - MỞ MENU
