@@ -17,12 +17,12 @@ curl -LO https://raw.githubusercontent.com/1Tech-X/Tamp/main/fix_phpmyadmin.sh
 bash fix_phpmyadmin.sh
 clear
 
+cd
+cd NgocRongTermux 
 echo "ĐANG TẢI DỮ LIỆU"
 gdown --quiet 1T7uB5HdciSWAvxF9vP_f1wqZXfVz76tc
 unzip *.zip
 rm -rf *.zip
-cd
-cd NgocRongTermux
 mv *.sh ~/../usr/bin/
 chmod +x ~/../usr/bin/*.sh
 cd
