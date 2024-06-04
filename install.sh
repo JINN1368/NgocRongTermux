@@ -1,7 +1,5 @@
 
 termux-setup-storage
-apt update
-apt upgrade -y
 
 pkg install -y git python python-pip openjdk-17
 
