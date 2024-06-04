@@ -19,10 +19,6 @@ clear
 
 cd
 cd NgocRongTermux 
-echo "ĐANG TẢI DỮ LIỆU"
-gdown --quiet 1T7uB5HdciSWAvxF9vP_f1wqZXfVz76tc
-unzip *.zip
-rm -rf *.zip
 mv *.sh ~/../usr/bin/
 chmod +x ~/../usr/bin/*.sh
 cd
