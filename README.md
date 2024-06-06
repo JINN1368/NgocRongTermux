@@ -61,7 +61,7 @@ jinn1368.sh
 tamp -start
 ```
 ```
-127.0.01:8080/phpmyadmin
+http://127.0.01:8080/phpmyadmin
 ```
 
 <div align="center">
