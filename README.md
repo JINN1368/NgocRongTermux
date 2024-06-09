@@ -14,7 +14,7 @@
   </a>
   <br/>
   <img alt="Github Download" src="https://img.shields.io/github/downloads/JINN1368/NgocRongTermux/total.svg?style=for-the-badge&color="green" />
-  <img alt="Build Version" src="https://img.shields.io/badge/NRO VERSION-2.1.0-pink?style=for-the-badge"/>
+  <img alt="Build Version" src="https://img.shields.io/badge/NRO VERSION-2.1.1-red?style=for-the-badge"/>
   <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NgocRongTermux.svg?style=for-the-badge"/>
   <br/>
 
@@ -55,13 +55,6 @@ curl -L --max-redirs 15 --progress-bar "https://raw.githubusercontent.com/JINN13
 - MỞ MENU
 ```
 jinn1368.sh
-```
-- MỞ DATABASE
-```
-tamp -start
-```
-```
-http://127.0.01:8080/phpmyadmin
 ```
 
 <div align="center">
