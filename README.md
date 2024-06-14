@@ -22,7 +22,10 @@
   
   </div>
 <div align="center">
-  
+
+# THÔNG BÁO CẬP NHẬT TIẾP THEO
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=100&random=false&width=435&lines=S%E1%BB%ADa+l%E1%BB%97i+t%E1%BA%A1o+ip)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=100&random=false&width=435&lines=Th%C3%AAm+ch%E1%BB%A9c+n%C4%83ng+menu+buff)](https://git.io/typing-svg)  
 # CÂU HỎI THƯỜNG GẶP
 </div>
 
