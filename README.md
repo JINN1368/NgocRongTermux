@@ -88,7 +88,7 @@ git clone https://github.com/Yisus7u7/termux-ngrok
 cd termux-ngrok
 bash install.sh
 ```
-- SAU ĐÓ TRUY CẬP [ngrok](ngrok.com). TẠO TÀI KHOẢN > COPY AUTHTOKEN > DÁN VÀO TERMUX > MỞ MENU VÀ TẠO IP
+- SAU ĐÓ TRUY CẬP [ngrok](https://ngrok.com/). TẠO TÀI KHOẢN > COPY AUTHTOKEN > DÁN VÀO TERMUX > MỞ MENU VÀ TẠO IP
 <img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/Screenshot_2023-12-15-19-12-45-930_com.android.chrome.png"/>
 <div align="center">
 
