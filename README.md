@@ -25,8 +25,7 @@
 
 # THÔNG BÁO CẬP NHẬT TIẾP THEO
 
-$${\color{red}Red}$$
-
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 <code style="color : green">SỬA LỖI TẠO IP</code>
 <code style="color : green">SỬA LỖI UI KHÔNG ĐỒNG BỘ</code>
 <code style="color : red">CẬP NHẬT MENU BUFF</code>
