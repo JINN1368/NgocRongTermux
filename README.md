@@ -20,17 +20,21 @@
 
 
   
-  </div>
+</div>
 <div align="center">
 
 # THÔNG BÁO CẬP NHẬT TIẾP THEO
+</div>
 
-$${\color{green}SỬA LỖI TẠO IP$$
-<code style="color : green">SỬA LỖI TẠO IP</code>
-<code style="color : green">SỬA LỖI UI KHÔNG ĐỒNG BỘ</code>
-<code style="color : red">CẬP NHẬT MENU BUFF</code>
-<code style="color : red">TỐI ƯU</code>
+${{\color{green}{\textsf{  SỬA\ LỖI\ TẠO\ IP\ \}}}}\$
 
+${{\color{green}{\textsf{  SỬA\ LỖI\ GIAO\ DIỆN\ \}}}}\$
+
+${{\color{red}{\textsf{  TỐI\ ƯU\ TOÀN \ BỘ\ MENU\ \}}}}\$
+
+${{\color{red}{\textsf{  CẬP\ NHẬT\ CHỨC\ NĂNG\ \}}}}\$
+<div align="center">
+  
 # CÂU HỎI THƯỜNG GẶP
 </div>
 
