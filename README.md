@@ -24,8 +24,11 @@
 <div align="center">
 
 # THÔNG BÁO CẬP NHẬT TIẾP THEO
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1000&color=F7059F&random=false&width=436&lines=S%E1%BB%ADa+l%E1%BB%97i+t%E1%BA%A1o+ip)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1002&color=F7059F&random=false&width=436&lines=Th%C3%AAm+ch%E1%BB%A9c+n%C4%83ng+menu+buff)](https://git.io/typing-svg)  
+<code style="color : green">SỬA LỖI TẠO IP</code>
+<code style="color : green">SỬA LỖI UI KHÔNG ĐỒNG BỘ</code>
+<code style="color : red">CẬP NHẬT MENU BUFF</code>
+<code style="color : red">TỐI ƯU</code>
+
 # CÂU HỎI THƯỜNG GẶP
 </div>
 
