@@ -24,7 +24,9 @@
 <div align="center">
 
 # THÔNG BÁO CẬP NHẬT TIẾP THEO
+
 $${\color{red}Red}$$
+
 <code style="color : green">SỬA LỖI TẠO IP</code>
 <code style="color : green">SỬA LỖI UI KHÔNG ĐỒNG BỘ</code>
 <code style="color : red">CẬP NHẬT MENU BUFF</code>
